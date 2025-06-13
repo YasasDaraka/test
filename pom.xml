@@ -11,7 +11,7 @@
 	<groupId>lk.ijse.gdse66</groupId>
 	<artifactId>helloshoes</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>helloshoes</name>
 	<description>Project for Helloshoes Shoeshop</description>
 	<properties>
